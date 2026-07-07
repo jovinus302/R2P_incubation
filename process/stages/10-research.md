@@ -17,7 +17,7 @@
 패스 C — 경쟁·prior art:
 > 다음 기술 시드 관련 경쟁/인접 제품과 과거 실패 사례를 조사하라: {seed 본문}. 테이블: 제품|회사|하는 일|트랙션 신호|갭. 과거 유사 시도와 실패 원인 포함. URL 인용 필수. 제품 아이디어 제안 금지. SUMMARY/FINDINGS/OPEN QUESTIONS 형식.
 
-**병합**: orchestrator가 `templates/10-research-digest.md` 구조로 병합, 섹션별 HIGH/MED/LOW confidence 태그. LOW는 run-log에 기록.
+**병합**: orchestrator가 `templates/10-research-digest.md` 구조로 병합, 섹션별 HIGH/MED/LOW confidence 태그. LOW는 run-log에 기록. **능력 랭킹을 "라이브 데모 안정성" 단일축으로 정렬 금지** — 신선도(최근 12–18개월 edge)·경쟁 공백 축 병기 (round 2 교훈: 안전성 단일축 다이제스트는 발산을 안전한 유틸로 밀어붙임).
 
 **QUALITY BAR**: 모든 주장에 URL. 다이제스트만 읽고 S2가 시장 감각 있는 아이디어를 낼 수 있어야 함.
 **FAILURE MODES**: 검색 실패로 빈 섹션 → 빈 채로 두고 LOW 표기 (지어내기 금지). 전략적 고위험 시드 → `deep-research` 스킬 격상 경로.
